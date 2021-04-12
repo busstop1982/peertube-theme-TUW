@@ -1,0 +1,18 @@
+{
+  'name': 'peertube-theme-TUW',
+  'version': '1.0',
+  'description': 'Peertube theme for TU Vienna'
+  'engine': {
+    'peertube': '>=2.1.1'
+  },
+  'keywords': [
+    'peertube',
+    'theme'
+  ],
+  "staticDirs": {},
+  "css": [
+    "assets/style.css"
+  ],
+  'client-scripts': [],
+  'translations': {}
+}
